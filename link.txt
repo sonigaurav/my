@@ -1,0 +1,42 @@
+
+ for amazone connectivity-
+ ssh ubuntu@ec2-54-205-199-164.compute-1.amazonaws.com -i /var/www/topic-pulse.pem
+
+ for server restart-
+ /etc/init.d/apache2 restart
+
+ for compile styl.less and css
+ lessc styles.less > styles.css
+
+
+ for amazon server-
+ https://rajinternational.signin.aws.amazon.com/console
+
+ 
+ for datePicker-
+ http://tarruda.github.io/bootstrap-datetimepicker/
+
+ for timePicker-
+ http://jdewit.github.io/bootstrap-timepicker/
+
+ online json response in Stringparse and jsparse-
+ link-http://json.parser.online.fr/
+
+ inline josn data format -
+ link-jsvaBeautifier.com
+
+ for code commit-
+ branch - git branch
+ git add . > git commit "name:description(status)" >git push
+
+ for clone -
+ git clone -b development https://github.com/RajInternational/topic-pulse.git
+ curl -sS https://getcomposer.org/installer | php
+ php composer.phar install
+
+cd ..
+chmod -R 777 topic-pulse/
+
+/etc/init.d/apache2 restart
+ 
+
