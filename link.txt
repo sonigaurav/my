@@ -1,0 +1,120 @@
+
+ for amazone connectivity-
+ ssh ubuntu@ec2-54-205-199-164.compute-1.amazonaws.com -i /var/www/topic-pulse.pem
+
+ for server restart-
+ /etc/init.d/apache2 restart
+
+ for compile styl.less and css
+ lessc styles.less > styles.css
+
+
+ for amazon server-
+ https://rajinternational.signin.aws.amazon.com/console
+
+ 
+ for datePicker-
+ http://tarruda.github.io/bootstrap-datetimepicker/
+
+ for timePicker-
+ http://jdewit.github.io/bootstrap-timepicker/
+
+ online json response in Stringparse and jsparse-
+ link - http://json.parser.online.fr/
+ link - http://jsonviewer.stack.hu/
+
+ inline josn data format -
+ link-jsvaBeautifier.com
+
+ for code commit-
+ branch - git branch
+ git add . > git commit "name:description(status)" >git push
+
+ for clone -
+ git clone -b tagBranch https://github.com/RajInternational/topic-pulse.git
+ curl -sS https://getcomposer.org/installer | php
+ php composer.phar install
+
+cd ..
+chmod -R 777 topic-pulse/
+
+/etc/init.d/apache2 restart
+ 
+//for css
+http://www.css3.info/preview/box-shadow/
+
+// for css editor
+http://www.colorzilla.com/gradient-editor/
+
+//for css shape 
+http://css-tricks.com/examples/ShapesOfCSS/
+
+na: production
+[12:14:16 AM] Jai Bapna: clone calendar
+[12:14:30 AM] Jai Bapna: production
+[12:14:38 AM] Jai Bapna: tags
+[12:14:40 AM] Jai Bapna: calendar
+[12:14:45 AM] Jai Bapna: tags _> production
+[12:14:50 AM] Jai Bapna: production calendar
+[12:15:04 AM] Jai Bapna: git rebase production
+[12:15:23 AM] Jai Bapna: git merge
+[12:16:43 AM] Jai Bapna: css {filter}
+[12:16:46 AM] Jai Bapna: opacity
+[12:16:50 AM] Jai Bapna: box-border
+[12:16:54 AM] Jai Bapna: css effects
+[12:18:36 AM] Jai Bapna: bugfix
+[12:18:41 AM] Jai Bapna: bug fix
+[12:18:42 AM] Jai Bapna: test
+[12:18:47 AM] Jai Bapna: merge production
+[12:19:26 AM] Jai Bapna: manually -> merge production
+[12:19:42 AM] Jai Bapna: git rebase production
+
+
+
+
+
+
+
+<!--
+<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Today@1:44pm EST
+<span class="caret"></span>
+</button>
+     <ul class="dropdown-menu">
+     <li><a href="#">Dropdown link</a></li>
+     <li><a href="#">Dropdown link</a></li>
+    </ul>
+-->
+
+// angularJS link-
+http://viralpatel.net/blogs/angularjs-routing-and-views-tutorial-with-example/
+
+
+// for SVN-
+http://stackoverflow.com/questions/4581371/installing-svn-plugin-for-eclipse-on-ubuntu
+
+I use subclipse with svnkit. Both can be installed from update site of subclipse. Works fine. No other sotware needed. You need to set svnkit instead of javahl. This can be done in preferences.
+
+Installation Help/install new software. Update sites depending on the version:
+
+http://subclipse.tigris.org/update_1.8.x
+
+http://subclipse.tigris.org/update_1.6.x 
+
+
+* To start mysql server:
+
+/etc/init.d/mysql start
+
+* To stop mysql server:
+
+/etc/init.d/mysql stop
+
+* To restart mysql server
+
+ /etc/init.d/mysql restart
+
+//tags
+http://jsfiddle.net/hAz5A/20/
+
+// online cutter
+www.cutmypic.com
